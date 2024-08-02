@@ -13,7 +13,7 @@ Ziel dieser Übung ist es eine einfache REST API zu erstellen:
         - Stelle uns den Code mit dem Medium Deiner Wahl zur Verfügung
 
 Kommentare:
-Die Zeit wurde am Ende echt knapp, deswegen habe ich:
+Die Zeit wurde auf Grund eines dummen Fehlers am Ende echt knapp, deswegen habe ich:
 - Die letzte API nur für genau den beschriebenen Fall implementiert
 - Keine Kommentare geschrieben
 - Nur eine API Beschreibung geschrieben
