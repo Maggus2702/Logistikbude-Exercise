@@ -1,0 +1,9 @@
+@LogistikbudeAPIExercise_HostAddress = http://localhost:5217
+
+GET {{LogistikbudeAPIExercise_HostAddress}}/locations
+
+###
+
+GET {{LogistikbudeAPIExercise_HostAddress}}/locations
+
+###

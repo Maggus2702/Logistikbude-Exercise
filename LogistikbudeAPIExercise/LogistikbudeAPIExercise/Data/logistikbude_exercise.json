@@ -1,0 +1,685 @@
+[
+  {
+    "FromLocationId": 83729,
+    "FromLocationName": "LuminaTech Solutions",
+    "TransactionDtos": [
+      {
+        "DestinationLocationId": 47391,
+        "DestinationLocationName": "Apex Digital Systems",
+        "Date": "23.01.2024",
+        "AcceptedDate": "30.01.2024",
+        "LoadCarriers": "6xIFCO"
+      },
+      {
+        "DestinationLocationId": 65284,
+        "DestinationLocationName": "GreenWave Innovations",
+        "Date": "07.06.2024",
+        "AcceptedDate": "09.06.2024",
+        "LoadCarriers": "10xIBC"
+      },
+      {
+        "DestinationLocationId": 89013,
+        "DestinationLocationName": "Synapse Cybersecurity",
+        "Date": "16.02.2024",
+        "AcceptedDate": "25.02.2024",
+        "LoadCarriers": "4xEPAL"
+      },
+      {
+        "DestinationLocationId": 34672,
+        "DestinationLocationName": "StellarNet Communications",
+        "Date": "28.06.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "11xIBC"
+      },
+      {
+        "DestinationLocationId": 89013,
+        "DestinationLocationName": "Synapse Cybersecurity",
+        "Date": "13.06.2024",
+        "AcceptedDate": "15.06.2024",
+        "LoadCarriers": "12xIBC"
+      },
+      {
+        "DestinationLocationId": 65284,
+        "DestinationLocationName": "GreenWave Innovations",
+        "Date": "16.02.2024",
+        "AcceptedDate": "23.02.2024",
+        "LoadCarriers": "6xGIBO"
+      },
+      {
+        "DestinationLocationId": 43926,
+        "DestinationLocationName": "BlueSky Ventures",
+        "Date": "14.01.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "12xIBC, 7xEPAL"
+      }
+    ]
+  },
+  {
+    "FromLocationId": 65284,
+    "FromLocationName": "GreenWave Innovations",
+    "TransactionDtos": [
+      {
+        "DestinationLocationId": 21958,
+        "DestinationLocationName": "QuantumLeap Enterprises",
+        "Date": "20.05.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "3xGIBO"
+      },
+      {
+        "DestinationLocationId": 83729,
+        "DestinationLocationName": "LuminaTech Solutions",
+        "Date": "16.02.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "8xGIBO"
+      },
+      {
+        "DestinationLocationId": 83729,
+        "DestinationLocationName": "LuminaTech Solutions",
+        "Date": "09.07.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "10xGIBO, 9xIFCO"
+      },
+      {
+        "DestinationLocationId": 43926,
+        "DestinationLocationName": "BlueSky Ventures",
+        "Date": "21.02.2024",
+        "AcceptedDate": "24.02.2024",
+        "LoadCarriers": "12xIFCO, 4xIBC"
+      },
+      {
+        "DestinationLocationId": 56109,
+        "DestinationLocationName": "EcoFusion Energy",
+        "Date": "01.05.2024",
+        "AcceptedDate": "04.05.2024",
+        "LoadCarriers": "6xIFCO, 9xEPAL"
+      },
+      {
+        "DestinationLocationId": 56109,
+        "DestinationLocationName": "EcoFusion Energy",
+        "Date": "04.05.2024",
+        "AcceptedDate": "11.05.2024",
+        "LoadCarriers": "12xEPAL"
+      },
+      {
+        "DestinationLocationId": 47391,
+        "DestinationLocationName": "Apex Digital Systems",
+        "Date": "29.05.2024",
+        "AcceptedDate": "02.06.2024",
+        "LoadCarriers": "8xGIBO"
+      },
+      {
+        "DestinationLocationId": 21958,
+        "DestinationLocationName": "QuantumLeap Enterprises",
+        "Date": "29.05.2024",
+        "AcceptedDate": "07.06.2024",
+        "LoadCarriers": "5xIFCO"
+      },
+      {
+        "DestinationLocationId": 21958,
+        "DestinationLocationName": "QuantumLeap Enterprises",
+        "Date": "07.06.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "8xEPAL, 9xIBC"
+      }
+    ]
+  },
+  {
+    "FromLocationId": 47391,
+    "FromLocationName": "Apex Digital Systems",
+    "TransactionDtos": [
+      {
+        "DestinationLocationId": 34672,
+        "DestinationLocationName": "StellarNet Communications",
+        "Date": "20.01.2024",
+        "AcceptedDate": "26.01.2024",
+        "LoadCarriers": "1xIBC, 9xIFCO, 1xEPAL"
+      },
+      {
+        "DestinationLocationId": 83729,
+        "DestinationLocationName": "LuminaTech Solutions",
+        "Date": "18.04.2024",
+        "AcceptedDate": "27.04.2024",
+        "LoadCarriers": "11xEPAL, 11xIFCO"
+      },
+      {
+        "DestinationLocationId": 72845,
+        "DestinationLocationName": "Nexus Robotics",
+        "Date": "26.04.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "9xIFCO"
+      },
+      {
+        "DestinationLocationId": 89013,
+        "DestinationLocationName": "Synapse Cybersecurity",
+        "Date": "19.03.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "13xGIBO, 1xEPAL, 10xIFCO"
+      },
+      {
+        "DestinationLocationId": 98547,
+        "DestinationLocationName": "Horizon BioPharma",
+        "Date": "15.01.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "3xIBC, 9xIFCO"
+      },
+      {
+        "DestinationLocationId": 98547,
+        "DestinationLocationName": "Horizon BioPharma",
+        "Date": "24.01.2024",
+        "AcceptedDate": "28.01.2024",
+        "LoadCarriers": "1xIFCO, 5xGIBO, 11xIBC"
+      },
+      {
+        "DestinationLocationId": 72845,
+        "DestinationLocationName": "Nexus Robotics",
+        "Date": "08.01.2024",
+        "AcceptedDate": "11.01.2024",
+        "LoadCarriers": "6xGIBO"
+      },
+      {
+        "DestinationLocationId": 72845,
+        "DestinationLocationName": "Nexus Robotics",
+        "Date": "31.05.2024",
+        "AcceptedDate": "09.06.2024",
+        "LoadCarriers": "11xGIBO, 9xEPAL, 11xIFCO"
+      },
+      {
+        "DestinationLocationId": 83729,
+        "DestinationLocationName": "LuminaTech Solutions",
+        "Date": "30.03.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "8xIBC"
+      }
+    ]
+  },
+  {
+    "FromLocationId": 21958,
+    "FromLocationName": "QuantumLeap Enterprises",
+    "TransactionDtos": [
+      {
+        "DestinationLocationId": 98547,
+        "DestinationLocationName": "Horizon BioPharma",
+        "Date": "08.04.2024",
+        "AcceptedDate": "14.04.2024",
+        "LoadCarriers": "9xEPAL"
+      },
+      {
+        "DestinationLocationId": 89013,
+        "DestinationLocationName": "Synapse Cybersecurity",
+        "Date": "13.02.2024",
+        "AcceptedDate": "21.02.2024",
+        "LoadCarriers": "7xIFCO, 8xGIBO"
+      },
+      {
+        "DestinationLocationId": 47391,
+        "DestinationLocationName": "Apex Digital Systems",
+        "Date": "13.04.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "10xGIBO, 2xIBC, 6xIFCO"
+      },
+      {
+        "DestinationLocationId": 47391,
+        "DestinationLocationName": "Apex Digital Systems",
+        "Date": "05.05.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "11xIFCO, 10xGIBO"
+      },
+      {
+        "DestinationLocationId": 98547,
+        "DestinationLocationName": "Horizon BioPharma",
+        "Date": "10.05.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "12xIBC, 7xGIBO, 3xEPAL"
+      },
+      {
+        "DestinationLocationId": 43926,
+        "DestinationLocationName": "BlueSky Ventures",
+        "Date": "14.05.2024",
+        "AcceptedDate": "16.05.2024",
+        "LoadCarriers": "3xGIBO"
+      },
+      {
+        "DestinationLocationId": 43926,
+        "DestinationLocationName": "BlueSky Ventures",
+        "Date": "08.04.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "6xGIBO"
+      },
+      {
+        "DestinationLocationId": 56109,
+        "DestinationLocationName": "EcoFusion Energy",
+        "Date": "07.04.2024",
+        "AcceptedDate": "10.04.2024",
+        "LoadCarriers": "5xEPAL"
+      }
+    ]
+  },
+  {
+    "FromLocationId": 98547,
+    "FromLocationName": "Horizon BioPharma",
+    "TransactionDtos": [
+      {
+        "DestinationLocationId": 34672,
+        "DestinationLocationName": "StellarNet Communications",
+        "Date": "14.02.2024",
+        "AcceptedDate": "15.02.2024",
+        "LoadCarriers": "11xIFCO"
+      },
+      {
+        "DestinationLocationId": 43926,
+        "DestinationLocationName": "BlueSky Ventures",
+        "Date": "25.03.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "1xGIBO"
+      },
+      {
+        "DestinationLocationId": 47391,
+        "DestinationLocationName": "Apex Digital Systems",
+        "Date": "22.03.2024",
+        "AcceptedDate": "27.03.2024",
+        "LoadCarriers": "2xGIBO, 5xIFCO, 12xIBC"
+      },
+      {
+        "DestinationLocationId": 89013,
+        "DestinationLocationName": "Synapse Cybersecurity",
+        "Date": "16.04.2024",
+        "AcceptedDate": "19.04.2024",
+        "LoadCarriers": "5xIBC"
+      },
+      {
+        "DestinationLocationId": 34672,
+        "DestinationLocationName": "StellarNet Communications",
+        "Date": "23.02.2024",
+        "AcceptedDate": "29.02.2024",
+        "LoadCarriers": "12xGIBO"
+      },
+      {
+        "DestinationLocationId": 56109,
+        "DestinationLocationName": "EcoFusion Energy",
+        "Date": "08.02.2024",
+        "AcceptedDate": "13.02.2024",
+        "LoadCarriers": "4xEPAL, 3xGIBO"
+      }
+    ]
+  },
+  {
+    "FromLocationId": 34672,
+    "FromLocationName": "StellarNet Communications",
+    "TransactionDtos": [
+      {
+        "DestinationLocationId": 98547,
+        "DestinationLocationName": "Horizon BioPharma",
+        "Date": "25.03.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "5xEPAL"
+      },
+      {
+        "DestinationLocationId": 65284,
+        "DestinationLocationName": "GreenWave Innovations",
+        "Date": "03.01.2024",
+        "AcceptedDate": "12.01.2024",
+        "LoadCarriers": "1xGIBO"
+      },
+      {
+        "DestinationLocationId": 47391,
+        "DestinationLocationName": "Apex Digital Systems",
+        "Date": "02.05.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "5xEPAL, 2xIFCO, 5xGIBO"
+      },
+      {
+        "DestinationLocationId": 83729,
+        "DestinationLocationName": "LuminaTech Solutions",
+        "Date": "03.02.2024",
+        "AcceptedDate": "10.02.2024",
+        "LoadCarriers": "6xIBC, 5xGIBO"
+      },
+      {
+        "DestinationLocationId": 43926,
+        "DestinationLocationName": "BlueSky Ventures",
+        "Date": "29.03.2024",
+        "AcceptedDate": "04.04.2024",
+        "LoadCarriers": "3xGIBO, 2xIFCO"
+      },
+      {
+        "DestinationLocationId": 43926,
+        "DestinationLocationName": "BlueSky Ventures",
+        "Date": "15.02.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "6xIFCO"
+      },
+      {
+        "DestinationLocationId": 56109,
+        "DestinationLocationName": "EcoFusion Energy",
+        "Date": "01.05.2024",
+        "AcceptedDate": "06.05.2024",
+        "LoadCarriers": "12xIFCO, 3xIBC"
+      },
+      {
+        "DestinationLocationId": 21958,
+        "DestinationLocationName": "QuantumLeap Enterprises",
+        "Date": "23.01.2024",
+        "AcceptedDate": "27.01.2024",
+        "LoadCarriers": "13xIBC"
+      },
+      {
+        "DestinationLocationId": 98547,
+        "DestinationLocationName": "Horizon BioPharma",
+        "Date": "24.02.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "4xIFCO"
+      },
+      {
+        "DestinationLocationId": 21958,
+        "DestinationLocationName": "QuantumLeap Enterprises",
+        "Date": "30.04.2024",
+        "AcceptedDate": "04.05.2024",
+        "LoadCarriers": "4xGIBO"
+      },
+      {
+        "DestinationLocationId": 72845,
+        "DestinationLocationName": "Nexus Robotics",
+        "Date": "30.01.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "2xIFCO"
+      }
+    ]
+  },
+  {
+    "FromLocationId": 56109,
+    "FromLocationName": "EcoFusion Energy",
+    "TransactionDtos": [
+      {
+        "DestinationLocationId": 21958,
+        "DestinationLocationName": "QuantumLeap Enterprises",
+        "Date": "17.01.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "7xEPAL, 6xIFCO"
+      },
+      {
+        "DestinationLocationId": 65284,
+        "DestinationLocationName": "GreenWave Innovations",
+        "Date": "01.03.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "3xEPAL"
+      },
+      {
+        "DestinationLocationId": 83729,
+        "DestinationLocationName": "LuminaTech Solutions",
+        "Date": "30.04.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "12xIBC"
+      },
+      {
+        "DestinationLocationId": 47391,
+        "DestinationLocationName": "Apex Digital Systems",
+        "Date": "12.02.2024",
+        "AcceptedDate": "14.02.2024",
+        "LoadCarriers": "11xGIBO"
+      },
+      {
+        "DestinationLocationId": 98547,
+        "DestinationLocationName": "Horizon BioPharma",
+        "Date": "30.05.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "3xIBC"
+      },
+      {
+        "DestinationLocationId": 65284,
+        "DestinationLocationName": "GreenWave Innovations",
+        "Date": "05.07.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "13xIBC"
+      },
+      {
+        "DestinationLocationId": 98547,
+        "DestinationLocationName": "Horizon BioPharma",
+        "Date": "13.07.2024",
+        "AcceptedDate": "22.07.2024",
+        "LoadCarriers": "4xIFCO, 2xEPAL"
+      },
+      {
+        "DestinationLocationId": 98547,
+        "DestinationLocationName": "Horizon BioPharma",
+        "Date": "07.01.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "11xIFCO, 3xIBC"
+      }
+    ]
+  },
+  {
+    "FromLocationId": 72845,
+    "FromLocationName": "Nexus Robotics",
+    "TransactionDtos": [
+      {
+        "DestinationLocationId": 65284,
+        "DestinationLocationName": "GreenWave Innovations",
+        "Date": "19.04.2024",
+        "AcceptedDate": "20.04.2024",
+        "LoadCarriers": "2xGIBO"
+      },
+      {
+        "DestinationLocationId": 56109,
+        "DestinationLocationName": "EcoFusion Energy",
+        "Date": "20.02.2024",
+        "AcceptedDate": "22.02.2024",
+        "LoadCarriers": "10xEPAL"
+      },
+      {
+        "DestinationLocationId": 47391,
+        "DestinationLocationName": "Apex Digital Systems",
+        "Date": "14.07.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "13xIFCO, 1xIBC"
+      },
+      {
+        "DestinationLocationId": 21958,
+        "DestinationLocationName": "QuantumLeap Enterprises",
+        "Date": "01.03.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "9xGIBO"
+      },
+      {
+        "DestinationLocationId": 65284,
+        "DestinationLocationName": "GreenWave Innovations",
+        "Date": "13.01.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "9xGIBO"
+      },
+      {
+        "DestinationLocationId": 65284,
+        "DestinationLocationName": "GreenWave Innovations",
+        "Date": "23.01.2024",
+        "AcceptedDate": "30.01.2024",
+        "LoadCarriers": "11xIBC, 7xIFCO"
+      },
+      {
+        "DestinationLocationId": 21958,
+        "DestinationLocationName": "QuantumLeap Enterprises",
+        "Date": "28.03.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "8xEPAL, 12xIBC, 2xGIBO"
+      },
+      {
+        "DestinationLocationId": 83729,
+        "DestinationLocationName": "LuminaTech Solutions",
+        "Date": "27.05.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "13xIBC"
+      },
+      {
+        "DestinationLocationId": 98547,
+        "DestinationLocationName": "Horizon BioPharma",
+        "Date": "07.07.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "9xIFCO"
+      },
+      {
+        "DestinationLocationId": 47391,
+        "DestinationLocationName": "Apex Digital Systems",
+        "Date": "01.01.2024",
+        "AcceptedDate": "09.01.2024",
+        "LoadCarriers": "2xEPAL, 3xGIBO"
+      },
+      {
+        "DestinationLocationId": 34672,
+        "DestinationLocationName": "StellarNet Communications",
+        "Date": "30.05.2024",
+        "AcceptedDate": "31.05.2024",
+        "LoadCarriers": "10xEPAL"
+      }
+    ]
+  },
+  {
+    "FromLocationId": 43926,
+    "FromLocationName": "BlueSky Ventures",
+    "TransactionDtos": [
+      {
+        "DestinationLocationId": 47391,
+        "DestinationLocationName": "Apex Digital Systems",
+        "Date": "11.01.2024",
+        "AcceptedDate": "14.01.2024",
+        "LoadCarriers": "7xEPAL, 2xIFCO"
+      },
+      {
+        "DestinationLocationId": 98547,
+        "DestinationLocationName": "Horizon BioPharma",
+        "Date": "23.02.2024",
+        "AcceptedDate": "24.02.2024",
+        "LoadCarriers": "8xGIBO, 13xIFCO"
+      },
+      {
+        "DestinationLocationId": 98547,
+        "DestinationLocationName": "Horizon BioPharma",
+        "Date": "21.02.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "10xGIBO, 11xIFCO"
+      },
+      {
+        "DestinationLocationId": 47391,
+        "DestinationLocationName": "Apex Digital Systems",
+        "Date": "05.03.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "9xGIBO"
+      },
+      {
+        "DestinationLocationId": 89013,
+        "DestinationLocationName": "Synapse Cybersecurity",
+        "Date": "24.06.2024",
+        "AcceptedDate": "28.06.2024",
+        "LoadCarriers": "1xIFCO"
+      },
+      {
+        "DestinationLocationId": 83729,
+        "DestinationLocationName": "LuminaTech Solutions",
+        "Date": "01.03.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "1xEPAL"
+      },
+      {
+        "DestinationLocationId": 34672,
+        "DestinationLocationName": "StellarNet Communications",
+        "Date": "27.01.2024",
+        "AcceptedDate": "05.02.2024",
+        "LoadCarriers": "8xEPAL, 9xIFCO"
+      }
+    ]
+  },
+  {
+    "FromLocationId": 89013,
+    "FromLocationName": "Synapse Cybersecurity",
+    "TransactionDtos": [
+      {
+        "DestinationLocationId": 43926,
+        "DestinationLocationName": "BlueSky Ventures",
+        "Date": "04.03.2024",
+        "AcceptedDate": "08.03.2024",
+        "LoadCarriers": "9xIBC, 1xGIBO, 7xIFCO"
+      },
+      {
+        "DestinationLocationId": 47391,
+        "DestinationLocationName": "Apex Digital Systems",
+        "Date": "30.01.2024",
+        "AcceptedDate": "07.02.2024",
+        "LoadCarriers": "5xGIBO"
+      },
+      {
+        "DestinationLocationId": 47391,
+        "DestinationLocationName": "Apex Digital Systems",
+        "Date": "05.04.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "11xEPAL, 4xGIBO"
+      },
+      {
+        "DestinationLocationId": 43926,
+        "DestinationLocationName": "BlueSky Ventures",
+        "Date": "15.01.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "4xEPAL"
+      },
+      {
+        "DestinationLocationId": 34672,
+        "DestinationLocationName": "StellarNet Communications",
+        "Date": "05.03.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "7xIFCO, 12xEPAL"
+      },
+      {
+        "DestinationLocationId": 65284,
+        "DestinationLocationName": "GreenWave Innovations",
+        "Date": "21.01.2024",
+        "AcceptedDate": "24.01.2024",
+        "LoadCarriers": "4xIBC"
+      },
+      {
+        "DestinationLocationId": 65284,
+        "DestinationLocationName": "GreenWave Innovations",
+        "Date": "19.02.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "5xIBC"
+      },
+      {
+        "DestinationLocationId": 34672,
+        "DestinationLocationName": "StellarNet Communications",
+        "Date": "10.04.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "10xIFCO, 13xIBC, 5xEPAL"
+      },
+      {
+        "DestinationLocationId": 72845,
+        "DestinationLocationName": "Nexus Robotics",
+        "Date": "28.02.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "6xEPAL"
+      },
+      {
+        "DestinationLocationId": 98547,
+        "DestinationLocationName": "Horizon BioPharma",
+        "Date": "04.06.2024",
+        "AcceptedDate": "08.06.2024",
+        "LoadCarriers": "2xGIBO"
+      },
+      {
+        "DestinationLocationId": 56109,
+        "DestinationLocationName": "EcoFusion Energy",
+        "Date": "18.06.2024",
+        "AcceptedDate": "26.06.2024",
+        "LoadCarriers": "13xGIBO"
+      },
+      {
+        "DestinationLocationId": 43926,
+        "DestinationLocationName": "BlueSky Ventures",
+        "Date": "16.06.2024",
+        "AcceptedDate": "25.06.2024",
+        "LoadCarriers": "10xGIBO, 13xIBC"
+      },
+      {
+        "DestinationLocationId": 21958,
+        "DestinationLocationName": "QuantumLeap Enterprises",
+        "Date": "17.05.2024",
+        "AcceptedDate": "",
+        "LoadCarriers": "1xIBC"
+      }
+    ]
+  }
+]
