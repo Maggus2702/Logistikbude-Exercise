@@ -15,6 +15,8 @@ Ziel dieser Übung ist es eine einfache REST API zu erstellen:
 
 Kommentare:
 Die Zeit wurde auf Grund eines dummen Fehlers am Ende echt knapp, deswegen habe ich:
+- Keine Fehlerbehandlung
+- Kein Logging
 - Die letzte API nur für genau den beschriebenen Fall implementiert
 - Keine Kommentare geschrieben
 - Nur eine API Beschreibung geschrieben
