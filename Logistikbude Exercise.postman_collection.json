@@ -1,0 +1,71 @@
+{
+	"info": {
+		"_postman_id": "d2d75ec1-c86b-4b6d-a6cd-5ffa51ada2e7",
+		"name": "Logistikbude Exercise",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "37410384"
+	},
+	"item": [
+		{
+			"name": "GetWithMostTransactions",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5217/Locations/GetWithMostTransactions/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5217",
+					"path": [
+						"Locations",
+						"GetWithMostTransactions",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetAllWithUnconfirmedInboundTransactions",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5217/Locations/GetAllWithUnconfirmedInboundTransactions",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5217",
+					"path": [
+						"Locations",
+						"GetAllWithUnconfirmedInboundTransactions"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetAllWithSaldoTillFirtMay24ForEPAL",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5217/Locations/GetAllWithSaldoTillFirtMay24ForEPAL",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5217",
+					"path": [
+						"Locations",
+						"GetAllWithSaldoTillFirtMay24ForEPAL"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
