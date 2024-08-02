@@ -11,3 +11,11 @@ Ziel dieser Übung ist es eine einfache REST API zu erstellen:
         - Die Aufgabenstellung ist bewusst offengehalten, löse die Aufgabe nach bestem Wissen und Gewissen
         - Der Zeitaufwand sollte zwei Stunden nach Möglichkeit nicht überschreiten
         - Stelle uns den Code mit dem Medium Deiner Wahl zur Verfügung
+
+Kommentare:
+Die Zeit wurde am Ende echt knapp, deswegen habe ich:
+- Die letzte API nur für genau den beschriebenen Fall implementiert
+- Keine Kommentare geschrieben
+- Nur eine API Beschreibung geschrieben
+- Gegen Ende besonders in den LINQ Abfragen keine vernünftigen Variablennamen benutzt
+- Nicht so ausführlich getestet wie ich es gern gemacht hätte
