@@ -1,3 +1,4 @@
+Aufgabe:
 In dieser Übung geht es um Bewegungen ('Transactions') von Ladungsträgern ('LoadCarrierTypes') zwischen verschiedenen Standorten ('Locations'). Jede Bewegung hat einen Start- und Ziel-Standort und eine Menge von Ladungsträgern. Manche Bewegungen wurden vom Ziel-Standort bereits bestätigt ('AcceptedDate'). In dieser Übung gibt es eine definierte Liste von möglichen Ladungsträgertypen: 'EPAL' (Europalette), 'GIBO' (Gitterbox), 'IFCO' (Lebensmittelkiste), 'IBC' (Tankcontainer)
  
 Ziel dieser Übung ist es eine einfache REST API zu erstellen:
