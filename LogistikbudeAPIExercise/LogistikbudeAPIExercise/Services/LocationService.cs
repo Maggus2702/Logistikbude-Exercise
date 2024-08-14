@@ -1,5 +1,6 @@
 ﻿using LogistikbudeAPIExercise.Controllers;
 using LogistikbudeAPIExercise.Dtos;
+using LogistikbudeAPIExercise.Services.Interfaces;
 using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
@@ -7,17 +8,22 @@ using Newtonsoft.Json.Linq;
 
 namespace LogistikbudeAPIExercise.Services
 {
-    public class LocationService
+    public class LocationService : ILocationService
     {
         private readonly List<LocationDto> _locationData;
 
-        public LocationService()
+        private readonly ILogger _logger;
+
+        public LocationService(ILogger<LocationService> logger)
         {
             _locationData = ReadExerciseData();
+            _logger = logger;
         }
 
         private List<LocationDto> ReadExerciseData()
         {
+            _logger.LogInformation(GetType().Name + ", ReadExerciseData: Was called!");
+
             var result = new List<LocationDto>();
 
             var dateFormat = "dd/MM/yyyy";
@@ -35,6 +41,9 @@ namespace LogistikbudeAPIExercise.Services
 
         public List<LocationWithTransactionCountDto> GetWithMostTransactions(int count)
         {
+            _logger.LogInformation(GetType().Name + ", GetWithMostTransactions: Was called!");
+
+            // inbound Transaction count per Location
             var result = _locationData
                 .SelectMany(locations => locations.TransactionDtos)
                 .GroupBy(transactions => transactions.DestinationLocationId)
@@ -45,6 +54,7 @@ namespace LogistikbudeAPIExercise.Services
                     TransactionCount = group.Count()
                 }).ToList();
 
+            // for each Location add their outbound Transaction count to the result
             foreach (var location in _locationData)
             {
                 if(result.Select(e => e.LocationId).Contains(location.FromLocationId))
@@ -69,6 +79,9 @@ namespace LogistikbudeAPIExercise.Services
 
         public List<LocationWithUnconfirmedInboundTransactionCountDto> GetAllWithUnconfirmedInboundTransactions()
         {
+            _logger.LogInformation(GetType().Name + ", GetAllWithUnconfirmedInboundTransactions: Was called!");
+
+            // unconfirmed inbound Transaction count per Location
             var result = _locationData
                 .SelectMany(locations => locations.TransactionDtos)
                 .Where(transaction => transaction.AcceptedDate == null)
@@ -85,8 +98,11 @@ namespace LogistikbudeAPIExercise.Services
 
         public List<LocationSaldoDto> GetAllWithSaldoTillFirtMay24ForEPAL()
         {
+            _logger.LogInformation(GetType().Name + ", GetAllWithSaldoTillFirtMay24ForEPAL: Was called!");
+
             var result = new List<LocationSaldoDto>();
 
+            // inbound Transaction count per Location
             var inboundTransactions = _locationData
                 .SelectMany(locations => locations.TransactionDtos)
                 .Where (transaction => transaction.AcceptedDate != null && transaction.AcceptedDate <= DateTime.Parse("01.05.2024") && transaction.LoadCarriers.Contains("EPAL"))
@@ -99,7 +115,7 @@ namespace LogistikbudeAPIExercise.Services
                 }).ToList();
 
 
-
+            // calculate Saldo for each Location
             foreach (var location in _locationData)
             {
                 if (inboundTransactions.Select(e => e.LocationId).Contains(location.FromLocationId))

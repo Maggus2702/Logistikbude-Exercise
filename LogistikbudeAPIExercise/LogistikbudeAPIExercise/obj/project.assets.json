@@ -477,11 +477,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MGolt\\source\\repos\\LogistikbudeAPIExercise\\LogistikbudeAPIExercise\\LogistikbudeAPIExercise.csproj",
+      "projectUniqueName": "C:\\repos\\Logistikbude-Exercise\\LogistikbudeAPIExercise\\LogistikbudeAPIExercise\\LogistikbudeAPIExercise.csproj",
       "projectName": "LogistikbudeAPIExercise",
-      "projectPath": "C:\\Users\\MGolt\\source\\repos\\LogistikbudeAPIExercise\\LogistikbudeAPIExercise\\LogistikbudeAPIExercise.csproj",
+      "projectPath": "C:\\repos\\Logistikbude-Exercise\\LogistikbudeAPIExercise\\LogistikbudeAPIExercise\\LogistikbudeAPIExercise.csproj",
       "packagesPath": "C:\\Users\\MGolt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MGolt\\source\\repos\\LogistikbudeAPIExercise\\LogistikbudeAPIExercise\\obj\\",
+      "outputPath": "C:\\repos\\Logistikbude-Exercise\\LogistikbudeAPIExercise\\LogistikbudeAPIExercise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MGolt\\AppData\\Roaming\\NuGet\\NuGet.Config",

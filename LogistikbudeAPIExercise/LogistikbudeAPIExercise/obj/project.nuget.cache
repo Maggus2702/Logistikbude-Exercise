@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uJjAsFLDzC8=",
+  "dgSpecHash": "jbbrjLc2EmA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MGolt\\source\\repos\\LogistikbudeAPIExercise\\LogistikbudeAPIExercise\\LogistikbudeAPIExercise.csproj",
+  "projectFilePath": "C:\\repos\\Logistikbude-Exercise\\LogistikbudeAPIExercise\\LogistikbudeAPIExercise\\LogistikbudeAPIExercise.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MGolt\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\MGolt\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
